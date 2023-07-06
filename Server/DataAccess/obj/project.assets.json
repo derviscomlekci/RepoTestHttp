@@ -718,11 +718,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Brodeus5\\source\\repos\\RepoTestHttp\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\Brodeus5\\source\\repos\\RepoTestHttp\\Server\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "C:\\Users\\Brodeus5\\source\\repos\\RepoTestHttp\\DataAccess\\DataAccess.csproj",
+      "projectPath": "C:\\Users\\Brodeus5\\source\\repos\\RepoTestHttp\\Server\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\Brodeus5\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Brodeus5\\source\\repos\\RepoTestHttp\\DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\Brodeus5\\source\\repos\\RepoTestHttp\\Server\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -742,11 +742,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Brodeus5\\source\\repos\\RepoTestHttp\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\Brodeus5\\source\\repos\\RepoTestHttp\\Core\\Core.csproj"
+            "C:\\Users\\Brodeus5\\source\\repos\\RepoTestHttp\\Server\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\Brodeus5\\source\\repos\\RepoTestHttp\\Server\\Core\\Core.csproj"
             },
-            "C:\\Users\\Brodeus5\\source\\repos\\RepoTestHttp\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\Brodeus5\\source\\repos\\RepoTestHttp\\Entities\\Entities.csproj"
+            "C:\\Users\\Brodeus5\\source\\repos\\RepoTestHttp\\Server\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\Brodeus5\\source\\repos\\RepoTestHttp\\Server\\Entities\\Entities.csproj"
             }
           }
         }
