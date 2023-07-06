@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BJmj3gMx+a5On/WK6scnHSy0IWf0bgAe5gJghGSQ0ckTtaa3AKU+YV/eA7r8oF8JglfRFXOgKJtbwuv4/5HLww==",
+  "dgSpecHash": "WsZ7VGkWwpVHC22Zv4cmDwgk/zZ7fQL8nyAkGKj4n+bCcMsxBMYN2lgFf0VYVnFYPRqoTBb9ThxJaiN82YtmyA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Brodeus5\\source\\repos\\RepoTestHttp\\Server\\HttpTest\\HttpTest.csproj",
+  "projectFilePath": "C:\\Users\\Brodeus5\\source\\repos\\RepoTestHttp\\HttpTest\\HttpTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Brodeus5\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
     "C:\\Users\\Brodeus5\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.8\\microsoft.entityframeworkcore.7.0.8.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wELuDhedgzQPkPzg1uH9kenGRhl000I137Vj9m5Y1imtfp/DeIG8U+rYQZf2wNWUrtv57woH8BAZ0AJGbVj2mw==",
+  "dgSpecHash": "jZKoCttDttkQTxQc9/ELYftptV+KEaeC4nfUqRKmCO4BB1OdsL0m45pfk5PoL1OQfRpfuAqWUa8DLV1KtqDExg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Brodeus5\\source\\repos\\RepoTestHttp\\Server\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\Brodeus5\\source\\repos\\RepoTestHttp\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Brodeus5\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.8\\microsoft.entityframeworkcore.7.0.8.nupkg.sha512",
     "C:\\Users\\Brodeus5\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.8\\microsoft.entityframeworkcore.abstractions.7.0.8.nupkg.sha512",
