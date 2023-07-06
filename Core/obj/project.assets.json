@@ -679,11 +679,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Brodeus5\\source\\repos\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\Brodeus5\\source\\repos\\RepoTestHttp\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\Brodeus5\\source\\repos\\Core\\Core.csproj",
+      "projectPath": "C:\\Users\\Brodeus5\\source\\repos\\RepoTestHttp\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\Brodeus5\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Brodeus5\\source\\repos\\Core\\obj\\",
+      "outputPath": "C:\\Users\\Brodeus5\\source\\repos\\RepoTestHttp\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
