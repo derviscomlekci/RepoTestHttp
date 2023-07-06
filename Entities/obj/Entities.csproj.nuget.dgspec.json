@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Brodeus5\\source\\repos\\RepoTestHttp\\Entities\\Entities.csproj": {}
+    "E:\\Other Projects\\RepoTestHttp\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Brodeus5\\source\\repos\\RepoTestHttp\\Core\\Core.csproj": {
+    "E:\\Other Projects\\RepoTestHttp\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Brodeus5\\source\\repos\\RepoTestHttp\\Core\\Core.csproj",
+        "projectUniqueName": "E:\\Other Projects\\RepoTestHttp\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\Brodeus5\\source\\repos\\RepoTestHttp\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\Brodeus5\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Brodeus5\\source\\repos\\RepoTestHttp\\Core\\obj\\",
+        "projectPath": "E:\\Other Projects\\RepoTestHttp\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\kara-\\.nuget\\packages\\",
+        "outputPath": "E:\\Other Projects\\RepoTestHttp\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Brodeus5\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kara-\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -68,24 +69,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Brodeus5\\source\\repos\\RepoTestHttp\\Entities\\Entities.csproj": {
+    "E:\\Other Projects\\RepoTestHttp\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Brodeus5\\source\\repos\\RepoTestHttp\\Entities\\Entities.csproj",
+        "projectUniqueName": "E:\\Other Projects\\RepoTestHttp\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\Brodeus5\\source\\repos\\RepoTestHttp\\Entities\\Entities.csproj",
-        "packagesPath": "C:\\Users\\Brodeus5\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Brodeus5\\source\\repos\\RepoTestHttp\\Entities\\obj\\",
+        "projectPath": "E:\\Other Projects\\RepoTestHttp\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\kara-\\.nuget\\packages\\",
+        "outputPath": "E:\\Other Projects\\RepoTestHttp\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Brodeus5\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kara-\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -99,8 +101,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Brodeus5\\source\\repos\\RepoTestHttp\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\Brodeus5\\source\\repos\\RepoTestHttp\\Core\\Core.csproj"
+              "E:\\Other Projects\\RepoTestHttp\\Core\\Core.csproj": {
+                "projectPath": "E:\\Other Projects\\RepoTestHttp\\Core\\Core.csproj"
               }
             }
           }
@@ -130,7 +132,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }
