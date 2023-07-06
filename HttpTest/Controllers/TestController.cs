@@ -22,13 +22,33 @@ namespace HttpTest.Controllers
         {
             return Ok();
         }
+        [HttpPost("IncreaseCount")]
+        public async Task<ActionResult> Increase()
+        {
+            var result = await _userService.GetCount();
+            User user=result.Data;
+            user.CounterNumber++;
+            await _userService.UpdateCount(user);
+            return Ok();
+        }
+
+        [HttpPost("add")]
+        public async Task<ActionResult> AddUser(User user)
+        {
+            var result=await  _userService.Add(user);
+            if (result.Success)
+            {
+                return Ok();
+            }
+            return BadRequest();
+        }
         [HttpGet()]
         public async Task<ActionResult> Get()
         {
             var result= await _userService.GetCount();
             if (result.Success)
             {
-                return Ok(result);
+                return Ok(result.Data.CounterNumber);
             }
             return BadRequest();
         }

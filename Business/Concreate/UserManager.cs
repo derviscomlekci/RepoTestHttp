@@ -23,14 +23,19 @@ namespace Business.Concreate
         public async Task<IResult>  Add(User user)
         {
             _userDal.Add(user);
-
             return new SuccesResult("Added");
         }
 
-        public async Task<IDataResult<int>> GetCount()
+        public async Task<IDataResult<User>> GetCount()
         {
-            var  a =await _userDal.GetAll();
-            return new SuccessDataResult<int>(a.Count);
+            var result =await _userDal.GetAll();
+            return new SuccessDataResult<User>(result.First());
+        }
+
+        public async Task<IResult> UpdateCount(User user)
+        {
+            await _userDal.Update(user);
+            return new SuccesResult("updated");
         }
     }
 }

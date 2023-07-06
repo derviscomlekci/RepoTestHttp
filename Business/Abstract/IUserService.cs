@@ -11,7 +11,10 @@ namespace Business.Abstract
 {
     public interface IUserService
     {
-        Task<IDataResult<int>> GetCount();
+        Task<IDataResult<User>> GetCount();
+
         Task<IResult> Add(User user);
+
+        Task<IResult> UpdateCount(User user);
     }
 }
