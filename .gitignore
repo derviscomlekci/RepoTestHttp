@@ -43,3 +43,8 @@ Server/HttpTest/obj/HttpTest.csproj.nuget.dgspec.json
 Server/HttpTest/obj/HttpTest.csproj.nuget.g.props
 Server/HttpTest/obj/project.assets.json
 Server/HttpTest/obj/project.nuget.cache
+Server/Business/obj/Debug/net7.0/Business.csproj.FileListAbsolute.txt
+Server/Core/obj/Debug/net7.0/Core.csproj.FileListAbsolute.txt
+Server/DataAccess/obj/Debug/net7.0/DataAccess.csproj.FileListAbsolute.txt
+Server/Entities/obj/Debug/net7.0/Entities.csproj.FileListAbsolute.txt
+Server/HttpTest/obj/Debug/net7.0/HttpTest.csproj.FileListAbsolute.txt
